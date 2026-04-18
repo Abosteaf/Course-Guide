@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>دليل الدورات التدريبية</title>
-<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="[https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap](https://web.facebook.com/people/Alnajah-Academy/61572260104374/)" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:#f5f5f5;font-family:'Tajawal',sans-serif;direction:rtl;color:#1a1a1a}
